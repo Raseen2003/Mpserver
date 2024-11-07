@@ -1,0 +1,67 @@
+{
+  "uploadVideos": [
+    {
+      "id": "4bda",
+      "caption": "Varathan",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjdhNjkzY2ItMzhlYy00YjdlLWFlYzgtYTQ0NTlmNDQwMDI0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/STHwR_ZzEGU"
+    },
+    {
+      "id": "2f2e",
+      "caption": "Bazooka",
+      "imgUrl": "https://www.newsbugz.com/wp-content/uploads/2023/04/Bazooka-Movie-1-700x1017.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/ru5Cku2t1JU"
+    },
+    {
+      "id": "b503",
+      "caption": "Bougainvillea",
+      "imgUrl": "https://s.yimg.com/zb/imgv1/a272277f-06ff-30a6-ac2a-954ae2d84dc9/t_500x300",
+      "youTubeLink": "https://www.youtube.com/embed/UVb6QOKy0bI"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a943",
+      "categoryName": "ds",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "42bd",
+      "caption": "Vazha",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "11/4/2024, 12:38:35 AM GMT+5:30"
+    },
+    {
+      "id": "3b6a",
+      "caption": "Vazha",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "11/4/2024, 12:41:04 AM GMT+5:30"
+    },
+    {
+      "id": "fceb",
+      "caption": "Bazooka",
+      "youTubeLink": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "11/4/2024, 12:44:00 AM GMT+5:30"
+    },
+    {
+      "id": "2883",
+      "caption": "Bazooka",
+      "youTubeLink": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "11/4/2024, 12:48:55 AM GMT+5:30"
+    },
+    {
+      "id": "c9d1",
+      "caption": "Bazooka",
+      "youTubeLink": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "11/7/2024, 1:21:24 AM GMT+5:30"
+    },
+    {
+      "id": "e2fc",
+      "caption": "Bougainvillea",
+      "youTubeLink": "https://www.youtube.com/embed/UVb6QOKy0bI",
+      "timeStamp": "11/7/2024, 1:22:04 AM GMT+5:30"
+    }
+  ]
+}
